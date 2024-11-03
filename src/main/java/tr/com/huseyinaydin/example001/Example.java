@@ -9,7 +9,7 @@ import java.util.List;
  *
  * @author Huseyin_Aydin
  * @since 1994
- * @category Java, Spring Boot
+ * @category Java Generics
  *
  */
 
